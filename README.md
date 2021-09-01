@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## :book: About me
+- 🖥 Full-stack developer at [Krew Live](https://www.krew.live)
+- 💼 Ex-founder [Scholared](https://scholared.in)
+- 🔨 Author [Change-CSS](https://www.npmjs.com/package/change-css)
+- 📢 Work in public
