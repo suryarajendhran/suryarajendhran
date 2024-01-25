@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 - 🖥 Senior Developer at [PurpleDot](https://www.purpledotprice.com/)
 - 🖥 Ex-Lead developer at [Krew Live](https://www.krew.live)
 - 💼 Ex-founder [Scholared](https://scholared.in)
-- 🔨 Author [Change-CSS](https://www.npmjs.com/package/change-css)
 - 📢 Work in public
