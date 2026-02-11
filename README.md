@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## :book: About me
-- 🖥 Senior Developer at [PurpleDot](https://www.purpledotprice.com/)
+- 💻 Software Engineer at [Skio](https://skio.com)
+- 🖥 Software Engineer at [PurpleDot](https://www.purpledotprice.com/)
 - 🖥 Ex-Lead developer at [Krew Live](https://www.krew.live)
 - 💼 Ex-founder [Scholared](https://scholared.in)
 - 📢 Work in public
